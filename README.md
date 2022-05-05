@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou Ytalo Lopes 👋
 
-- 👨‍💻 Hoje eu possuou uma empresa que é a ytalotech e presto serviços como desenvolvedor fullstack.
+- 👨‍💻 Atualmente possuo uma empresa que é a ytalotech e presto serviços como desenvolvedor fullstack.
 - 🚀 Habilidades em PHP, Laravel, JS, ReactJS, React Native, NODE, TypeScript, SQL, Postgresql, Mysql, Mongodb.
 - 🤓 Never stop learning!
 
